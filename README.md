@@ -10,3 +10,11 @@ Insert time for 1000000 docs: 4.42s
 Read time for 1000000 docs: 1.16s
 Amount of found books: 333559
 ```
+
+### Python
+```console
+▶ python main.py
+Insert time for 1000000 docs: 8.92s
+Read time for 1000000 docs: 2.56s
+Amount of found books: 333192
+```
