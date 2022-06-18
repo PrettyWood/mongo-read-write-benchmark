@@ -18,3 +18,11 @@ Insert time for 1000000 docs: 8.92s
 Read time for 1000000 docs: 2.56s
 Amount of found books: 333192
 ```
+
+### Go
+```console
+▶ go run main.go
+Insert time for 1000000 docs: 4.55s
+Read time for 1000000 docs: 1.20s
+Amount of found books: 333459
+```
